@@ -2,6 +2,7 @@
 Spotify Analysis to process the collected listening history data of various albums, atrists and tracks.
 
 **Overview**
+
 In today’s digital music era, understanding listening patterns is crucial for both users and streaming platforms. This analysis focuses on Spotify Albums Data, providing insights into user engagement with albums over time.
 
 **ALBUMS**
@@ -15,7 +16,7 @@ Total Albums Played Over Time – Track how album listening trends change over m
 
 **ARTISTS**
 * Total Artists Played Over Time – Track how artist listening trends evolve across months and years.
-* Number of Artists Listened by Year – Identify annual listening habits and artist diversity. (Find the Min and Max Artists in the view).
+* Number of Artists Listened by Year – Identify annual listening habits and artist diversity.
 * Artists Played on Weekday & Weekend – Identify the Pattern of music listening on weekdays and weekends.
 * Top 5 Artists – Identify the most played artists based on listening frequency.
 * Latest Year vs Previous Year Analysis – Compare artist engagement between the latest and previous years, including:
@@ -24,7 +25,7 @@ Total Albums Played Over Time – Track how album listening trends change over m
 
 **TRACKS**
 * Total Tracks Played Over Time – Monitor how track listening trends change across months and years
-* Number of Tracks Listened by Year – Identify annual listening habits and track diversity. (Find the Min and Max Tracks in the view).
+* Number of Tracks Listened by Year – Identify annual listening habits and track diversity.
 * Tracks Played on Weekday & Weekend – Identify the Pattern of music listening on weekdays and weekends.
 * Top 5 Tracks – Identify the most played tracks based on listening frequency.
 * Latest Year vs Previous Year Analysis – Compare track engagement between the latest and previous years, including:
