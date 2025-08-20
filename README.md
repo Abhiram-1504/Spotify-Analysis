@@ -6,7 +6,7 @@ Spotify Analysis to process the collected listening history data of various albu
 In today’s digital music era, understanding listening patterns is crucial for both users and streaming platforms. This analysis focuses on Spotify Albums Data, providing insights into user engagement with albums over time.
 
 **ALBUMS**
-Total Albums Played Over Time – Track how album listening trends change over months and years.
+* Total Albums Played Over Time – Track how album listening trends change over months and years.
 * Number of Albums Listened by Year – Identify annual listening habits and volume.
 * Albums Played on Weekday & Weekend – Identify the Pattern of music listening on weekdays and weekends.
 * Top 5 Albums – Identify the most played albums based on listening frequency.
